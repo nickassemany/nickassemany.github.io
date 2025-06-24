@@ -1,152 +1,115 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Nicholas J. Assemany",
+    "email": "asseman2@msu.edu",
+    "phone": "(734) 233-4450",
+    "website": "https://nickassemany.github.io",
+    "summary": "Data Analytics Intern at Stoneridge. Finance major and CS minor at MSU with experience in analytics, food service, fashion resale, and music production.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "city": "Novi",
       "countryCode": "US",
-      "region": ""
+      "region": "MI"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/nicholas-assemany"
       },
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "university": "MSU",
+        "url": "https://msu.edu"
       },
       {
-        "network": "GitHub",
+        "network": "Stoneridge",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://www.stoneridge.com/"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "position": "Data Analytics Intern",
+      "company": "Stoneridge",
+      "location": "Novi, MI",
+      "startDate": "2025-05",
+      "summary": "Working with data analysis tools to support business decisions at Stoneridge."
+    },
+    {
+      "position": "Sushi Chef",
+      "company": "Maru",
+      "location": "Lansing, MI",
+      "startDate": "2024-08",
+      "endDate": "2025-05",
+      "summary": "Prepared sushi for a high-volume restaurant while maintaining quality and presentation."
+    },
+    {
+      "position": "Opening Technician",
+      "company": "Roman\u2019s Pool Supplies and Service",
+      "location": "Howell, MI",
+      "startDate": "2023-05",
+      "summary": "Led a team of 3 to open pools, handle equipment, test water, and manage sales."
+    },
+    {
+      "position": "Line Cook",
+      "company": "Omelette and Waffle Cafe",
+      "location": "Plymouth, MI",
+      "startDate": "2020-09",
+      "endDate": "2022-08",
+      "summary": "Prepared meals, maintained cleanliness, managed opening/closing responsibilities."
+    },
+    {
+      "position": "Clothing Reseller",
+      "company": "Self-Employed",
+      "location": "Northville, MI",
+      "startDate": "2019-12",
+      "endDate": "2022-08",
+      "summary": "Bought and sold fashion goods; maintained 5-star seller rating."
+    },
+    {
+      "position": "Music Producer",
+      "company": "Freelance",
+      "location": "Northville, MI",
+      "startDate": "2018-05",
+      "endDate": "2021-01",
+      "summary": "Produced hip-hop and RNB beats; collaborated with artists and producers."
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "Michigan State University",
+      "area": "Bachelor of Arts in Finance, Minor in Computer Science",
+      "location": "East Lansing, MI",
+      "startDate": "2022-08",
+      "endDate": "2026-05",
+      "gpa": "3.95",
+      "courses": [
+        "Marketing",
+        "Microeconomics",
+        "Macroeconomics",
+        "Computer Science"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Livonia Career Technical Center",
+      "area": "Fashion Merchandising",
+      "location": "Livonia, MI",
+      "startDate": "2021-09",
+      "endDate": "2022-06",
+      "summary": "Learned about fashion history, design, merchandising, and hosted a fashion show."
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
+  "skills": [
+    "Python",
+    "Excel",
+    "Word",
+    "PowerPoint",
+    "Intermediate Spanish"
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
+  "interests": [
+    "Cooking",
+    "Travel",
+    "Computer Programming",
+    "Fashion"
   ]
+
 }
